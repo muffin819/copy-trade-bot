@@ -10,4 +10,4 @@ Target transaction: https://solscan.io/tx/3REXjQfCAGFvj3eYM6LEZrPVCbH3UNeBC1MW6e
 Copy transaction: https://solscan.io/tx/4ciUpbved6zjXxSRqnkhY4TeZvzsUVrJb4wdcWLAppJftwgNfMB8dFVHPPrKi3LRJgYuFVztdVCZSrXxzte2ftsj
 
 # Contact
-DogeWhiz[https://t.me/dogewhiz]
+https://t.me/dogewhiz
