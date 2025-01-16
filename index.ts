@@ -53,7 +53,7 @@ const getMetaData = async (mintAddr: string) => {
 let tokenList: any;
 tokenList = getAllTokenPrice()
 
-// Function to send a request to the WebSocket server
+// Function to send req to the WebSocket server
 
 ws.on('open', async function open() {
 	await sendRequest(wallet)
